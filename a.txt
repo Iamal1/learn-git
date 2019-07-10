@@ -4,5 +4,8 @@ line1
 line2
 line3
 
+<<<<<<< HEAD
 line7
 line8
+=======
+>>>>>>> C3 in dev
